@@ -14,3 +14,8 @@ Define an interface named Vehicle with the following properties:
 1. Call the start method on the instance of the Car class to verify that it logs the appropriate message to the console.
 1. Finally, compile your TypeScript code into JavaScript and run it to ensure everything works as expected.
 
+ ## 📸 Screenshots
+
+###  desktop Mode
+![desktop Mode](./src/assets/screenshots/car.PNG)
+
